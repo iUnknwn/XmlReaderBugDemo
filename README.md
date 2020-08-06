@@ -10,3 +10,4 @@ The repo includes four test cases:
   - Cases where the element is read via `reader.Value` and
     `reader.ReadElementContentAsString()`.
 
+The test cases are written in xUnit - you can run the tests via `dotnet test`.
